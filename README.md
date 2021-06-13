@@ -1,8 +1,8 @@
-#El Dojo Dodge de SCESILIA*
+#Dojo Dodge
 
 ##version 0
 
 ##Lista de caracteristicas
+###esto es una evaluacion
 
-##caracteristica 1
 
